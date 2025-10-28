@@ -38,7 +38,7 @@ spec:
   managementCluster:
     name: main-i-0bca9-2b02bee
   workerNodeGroupConfigurations:
-  - count: 3
+  - count: 1
     machineHealthCheck:
       maxUnhealthy: 40%
     name: md-0
